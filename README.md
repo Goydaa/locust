@@ -63,7 +63,7 @@ Locust (в переводе с английского - "саранча") - эт
 `python -m pip install locust` 
  
 ### Шаг 3: Переходим в папку с проектом 
-`cd C:\Users\bodro\OneDrive\Рабочий стол\locust-new\src` 
+
  
 ### Шаг 4: Запускаем Locust 
 `locust -f locustfile.py --host=https://jsonplaceholder.typicode.com` 
